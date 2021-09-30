@@ -1,0 +1,21 @@
+--------------------
+Before transfer
+The account number 100 has : 130.0
+The account number 200 has : 20.0
+10.0 has been transfered from account number 100 to 200
+Current balance of the account number 100 has: 120.0
+Current balance of the account number 200 has: 30.0
+The account number 2 has : 2000.0
+The account number 1 has : 1000.0
+500.0 has been transfered from account number 2 to 1
+Current balance of the account number 2 has: 1500.0
+Current balance of the account number 1 has: 1500.0
+--------------------
+Before transfer
+The account number 6 has : 800.0
+The account number 5 has : 100.0
+200.0 has been transfered from account number 6 to 5
+Current balance of the account number 6 has: 600.0
+Current balance of the account number 5 has: 300.0
+--------------------
+Before transfer
